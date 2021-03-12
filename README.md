@@ -1,6 +1,6 @@
 # @jakesidsmith/react-div
 
-**A React polyfill to convert all markup to divs**
+**Divs! Divs everywhere!**
 
 ## About
 
@@ -50,5 +50,6 @@ ReactDOM.render(<App />, document.getElementById('app'));
 
 ## Future features
 
-- Parse HTML with regexes
-- Blockchain integration
+- Parse divs with regexes
+- Use divs to send email
+- Store divs on the blockchain

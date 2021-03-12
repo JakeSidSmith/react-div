@@ -1,7 +1,7 @@
 {
   "name": "@jakesidsmith/react-div",
-  "version": "0.0.0",
-  "description": "A React polyfill to convert all markup to divs",
+  "version": "1.0.0",
+  "description": "Divs! Divs everywhere!",
   "main": "dist/index.js",
   "scripts": {
     "dist": "rm -rf dist && tsc --project tsconfig.dist.json",
@@ -21,7 +21,9 @@
   "keywords": [
     "react",
     "div",
+    "divs",
     "polyfill",
+    "semantic",
     "markup"
   ],
   "author": "Jake 'Sid' Smith",
