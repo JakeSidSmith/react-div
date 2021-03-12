@@ -1,6 +1,6 @@
 # @jakesidsmith/react-div
 
-**A React polyfill to convert all markup to divs**
+**Divs! Divs everywhere!**
 
 ## About
 
