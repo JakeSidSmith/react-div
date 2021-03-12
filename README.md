@@ -50,5 +50,6 @@ ReactDOM.render(<App />, document.getElementById('app'));
 
 ## Future features
 
-- Parse HTML with regexes
-- Blockchain integration
+- Parse divs with regexes
+- Use divs to send email
+- Store divs on the blockchain
