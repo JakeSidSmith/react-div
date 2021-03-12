@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`react-div should override React's createElement function, and call the original with string elements swapped for divs 1`] = `
+<div>
+  <div>
+    Wow, look at this
+  </div>
+  <div>
+    None of these tags have 
+    <div>
+      any
+    </div>
+     meaning any more!
+  </div>
+  <div>
+    Open up the inspector and take a peek.
+  </div>
+</div>
+`;
