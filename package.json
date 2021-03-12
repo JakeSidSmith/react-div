@@ -22,6 +22,7 @@
     "react",
     "div",
     "polyfill",
+    "semantic",
     "markup"
   ],
   "author": "Jake 'Sid' Smith",
