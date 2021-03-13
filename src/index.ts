@@ -1,4 +1,6 @@
-import React = require('react');
+import type * as ReactType from 'react';
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+const React: typeof ReactType = require('react');
 
 const originalCreateElement = React.createElement;
 
@@ -11,3 +13,5 @@ Object.defineProperty(React, 'createElement', {
   },
   configurable: true,
 });
+
+export {};
